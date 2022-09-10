@@ -75,3 +75,4 @@ while opcao != 5:
     sleep(2)
     input('\33[33m -Pressione ENTER para continuar...\33[m')
 print('\n\33[30m -Programa finalizado!\33[m')
+# Fim do programa
